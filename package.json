@@ -1,7 +1,7 @@
 {
     "name": "biblioteca",
     "version": "1.0.0",
-    "description": "",
+    "description": "Proyecto Ultima Unidad",
     "main": "index.js",
     "scripts": {
         "start": "node server.js",
