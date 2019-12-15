@@ -19,8 +19,10 @@
         "express-fileupload": "^1.1.6",
         "jshint": "^2.11.0-rc1",
         "jsonwebtoken": "^8.5.1",
+        "latest": "^0.2.0",
         "mongoose": "^5.7.13",
         "mongoose-unique-validator": "^2.0.3",
+        "node": "^13.3.0",
         "node-gyp": "^6.0.1",
         "underscore": "^1.9.1",
         "uniqid": "^5.2.0"
