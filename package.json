@@ -24,7 +24,7 @@
         "mongoose-unique-validator": "^2.0.3",
         "node": "^13.3.0",
         "node-gyp": "^6.0.1",
-        "underscore": "^1.9.1",
+        "underscore": "^1.12.1",
         "uniqid": "^5.2.0"
     },
     "devDependencies": {},
